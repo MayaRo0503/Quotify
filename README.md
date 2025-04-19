@@ -9,7 +9,14 @@
 
 > A sleek, responsive quote generator that delivers fresh inspiration at the click of a button.
 
----
+## 💬 Quote Generator Preview
+
+<p align="center">
+  <img src="https://i.imgur.com/FHB9PN9.png" alt="Favorite Quotes Screen" width="45%" />
+  <img src="https://i.imgur.com/fZSKqoo.png" alt="Quote Generator Main Screen" width="45%" style="margin-right: 10px;" />
+</p>
+
+
 
 ## 🚀 Live Demo
 [https://quotifym.netlify.app/](https://quotifym.netlify.app/)
